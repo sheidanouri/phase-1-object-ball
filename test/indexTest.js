@@ -10,3 +10,5 @@ describe("", () => {
     });
   });
 });
+
+//gameObject({obj={home{teamname,colors,players{}},away}})
